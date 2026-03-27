@@ -1,4 +1,3 @@
-# Digital-Literacy
 # Digital Literacy Project
 
 ## 👤 Student Details
@@ -34,7 +33,7 @@ Created and updated profiles on GitHub, LinkedIn, and Kaggle to build a professi
 Completed a beginner-level coding challenge on HackerRank and created a Digital Literacy Quiz using Google Forms.
 
 📁 Folder: task-3-platforms/  
-🔗 Quiz Link: [Paste your Google Form link here]
+🔗 Quiz Link: https://docs.google.com/forms/d/e/1FAIpQLSc_qh2OS3ued56nJS3WS4NZcFrNM5T9T-baq2NNz8t39Bt6ww/viewform?usp=publish-editor
 
 ---
 
@@ -52,12 +51,6 @@ Prepared a case study on UPI fraud and created a prevention checklist to promote
 
 ---
 
-## 📄 Project Report
-The complete project report is available in the following folder:
-
-📁 report/
-
----
 
 ## 📚 Tools & Platforms Used
 - Canva (Infographic design)
